@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/dsc530/dsc530/blob/main/banner2024.png" width="800"/>
 </div>
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/daniel-cumbal/)
+<div aling="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cumbal/)
+</div>
+
 <!--
 **dsc530/dsc530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
